@@ -14,3 +14,9 @@ Data Science Portfolio
 [link](https://car-sales-price.herokuapp.com/)
 <br>
 <img src="/images/aut-22-bk0504-01p.jpg" alt="car">
+
+## Project 3: [iris_flower](https://github.com/Indranil1995/iris_flower)
+<h2>Overview</h2>
+<p>This is a classification model app.The trained model takes the length & width of iris flower as input and predict the species of iris flower.</p>
+<h2>Demo</h2>
+[link](https://iris-flower-species-prediction.herokuapp.com/)
