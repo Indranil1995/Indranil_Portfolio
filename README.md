@@ -13,4 +13,4 @@ Data Science Portfolio
 <h2>Demo</h2>
 [link](https://car-sales-price.herokuapp.com/)
 <br>
-<img src="/images/aut-22-bk0504-01p.jpg.jpg" alt="car">
+<img src="/images/aut-22-bk0504-01p.jpg" alt="car">
